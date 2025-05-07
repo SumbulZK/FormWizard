@@ -43,9 +43,8 @@ npm start
 - Express.js
 - OpenAI API
 - CORS middleware
-- dotenv for environment variables
-- Modern CSS
-- Language Processing APIs
+
+
 
 ## 🤝 Contributing
 

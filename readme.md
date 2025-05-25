@@ -6,9 +6,7 @@ A modern, intelligent form generator that transforms natural language prompts in
 
 - **Natural Language Form Generation**: Simply describe your form requirements in plain English
 - **Smart Field Detection**: Automatically identifies and creates appropriate input fields based on context
-- **Real-time Preview**: See your form take shape as you type your requirements (Planned)
-- **Customizable Templates**: Choose from pre-built form templates (Planned)
-- **Responsive Design**: Forms that look great on any device
+- **Customizable Templates**: Choose from pre-built form templates 
 - **Export Options**: Download your forms in multiple formats (Planned)
 - **Form Validation**: Built-in validation rules for common field types (Planned)
 

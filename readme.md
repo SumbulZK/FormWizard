@@ -11,6 +11,8 @@ A modern, intelligent form generator that transforms natural language prompts in
 - **Form Validation**: Built-in validation rules for common field types (Planned)
 
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/7965faa6-021e-4142-9968-7fbfde6dae6f" />
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/8593672e-cd33-4969-9eb9-0fde3687ac0e" />
+
 
 [Watch the demo on Loom](https://www.loom.com/share/3f6a87781427445996767bf415288c9c?sid=b4825cdb-99e2-41b2-8e6e-58e097eac1b6)
 
